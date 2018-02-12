@@ -1,5 +1,5 @@
 
-reuire('dotenv').config();
+require('dotenv').config();
 var PORT = 80;
 
 
